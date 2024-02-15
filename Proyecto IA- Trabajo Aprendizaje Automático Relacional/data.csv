@@ -1,0 +1,97 @@
+,historical_significance,gender,birthdate,deathdate,community,clustering,Degree
+0,Quaker schismatic and Church of England clergyman,male,1638,1716,comunidad-2,0.2857142857142857,8
+1,religious writer and colonial governor,male,1648,1690,comunidad-2,0.3333333333333333,3
+2,merchant and religious writer,male,1636,1714,comunidad-2,0.2,10
+3,philosopher,female,1631,1679,comunidad-2,0.0,1
+4,physician and cabbalist,male,1614,1698,comunidad-2,1.0,2
+5,Quaker leader and founder of Pennsylvania,male,1644,1718,comunidad-1,0.065359477124183,18
+6,a founder of the Religious Society of Friends (Quakers),male,1624,1691,comunidad-0,0.0995670995670995,22
+7,Quaker leader and writer,male,1637,1724,comunidad-4,0.0769230769230769,13
+8,printer,male,1663,1752,comunidad-1,0.6666666666666666,3
+9,Quaker martyr,male,1636,1656,comunidad-2,1.0,2
+10,Quaker activist and writer,male,1628,1692,comunidad-2,0.6666666666666666,3
+11,botanist,male,1694,1768,comunidad-1,1.0,2
+12,botanist and explorer in America,male,1699,1777,comunidad-1,1.0,2
+13,colonial official and scholar,male,1674,1751,comunidad-1,0.3333333333333333,4
+14,religious writer,male,1663,1731,comunidad-7,0.0,1
+15,religious controversialist,male,1639,1713,comunidad-7,0.1785714285714285,8
+16,Quaker preacher,female,1656,1659,comunidad-5,0.0,1
+17,Quaker preacher and writer,male,1618,1660,comunidad-5,0.1583333333333333,16
+18,religious writer,male,1630,1713,comunidad-0,0.0,1
+19,Quaker activist,male,1621,1688,comunidad-0,1.0,3
+20,Quaker activist and writer,male,1633,1663,comunidad-0,0.3333333333333333,9
+21,Quaker leader and writer,male,1616,1699,comunidad-0,0.8333333333333334,4
+22,Quaker preacher,male,1630,1664,comunidad-6,0.2,6
+23,Quaker preacher,male,1605,1657,comunidad-6,0.3333333333333333,4
+24,Quaker activist,male,1618,1669,comunidad-5,0.3333333333333333,7
+25,parliamentarian army officer,male,1560,1670,comunidad-6,1.0,2
+26,Quaker preacher and apothecary,male,1637,1698,comunidad-6,0.3333333333333333,3
+27,Quaker preacher,female,1627,1705,comunidad-6,0.0,2
+28,Quaker and author,female,1624,1665,comunidad-5,0.6666666666666666,3
+29,Quaker preacher and writer,male,1630,1666,comunidad-5,0.3333333333333333,6
+30,Quaker leader and writer,male,1628,1711,comunidad-0,1.0,2
+31,printer and bookseller,male,1666,1749,comunidad-1,0.3333333333333333,3
+32,Quaker schismatic,male,1601,1711,comunidad-7,0.0,2
+33,Quaker missionary,female,1656,1671,comunidad-5,1.0,2
+34,Quaker preacher,female,1637,1704,comunidad-1,0.0,1
+35,religious writer,male,1551,1661,comunidad-3,0.0,1
+36,Quaker leader,female,1614,1702,comunidad-3,0.1025641025641025,13
+37,Quaker administrator,male,1635,1681,comunidad-0,0.0,1
+38,Quaker patron and merchant,male,1627,1713,comunidad-3,1.0,2
+39,Quaker preacher,female,1562,1672,comunidad-0,0.0,1
+40,Quaker preacher and writer,male,1630,1691,comunidad-3,1.0,2
+41,Quaker schismatic,male,1652,1683,comunidad-6,0.1,5
+42,merchant and official in America,male,1601,1678,comunidad-0,0.0,1
+43,Quaker minister,male,1618,1675,comunidad-2,0.2,5
+44,Quaker schismatic,male,1555,1665,comunidad-0,0.3333333333333333,7
+45,Quaker missionary and writer,male,1624,1701,comunidad-0,0.0,1
+46,Quaker preacher,male,1636,1665,comunidad-2,0.2,5
+47,Quaker preacher and writer,male,1604,1665,comunidad-2,0.0,1
+48,Quaker minister,male,1631,1690,comunidad-1,0.0,4
+49,Quaker preacher and writer,male,1640,1708,comunidad-6,0.0,3
+50,Quaker schismatic,male,1571,1681,comunidad-6,0.1333333333333333,6
+51,musician and Quaker missionary,male,1617,1682,comunidad-6,1.0,2
+52,Quaker preacher and author,male,1628,1689,comunidad-3,0.0666666666666666,6
+53,colonial official and merchant,male,1671,1735,comunidad-1,0.0,1
+54,politician,male,1620,1679,comunidad-2,0.0,1
+55,soldier and politician,male,1610,1686,comunidad-2,0.0,2
+56,Quaker leader,male,1569,1679,comunidad-5,1.0,2
+57,Quaker adherent and sectary,male,1607,1679,comunidad-5,1.0,2
+58,Quaker administrator,male,1627,1666,comunidad-5,0.4,5
+59,Quaker preacher and writer,female,1609,1688,comunidad-4,0.3333333333333333,4
+60,religious writer,male,1650,1696,comunidad-5,1.0,2
+61,Quaker leader,male,1643,1707,comunidad-1,0.0,3
+62,Quaker activist,male,1631,1704,comunidad-1,0.0,2
+63,Quaker schismatic,male,1602,1712,comunidad-7,0.2,5
+64,Quaker leader,male,1627,1712,comunidad-1,0.0,2
+65,Quaker preacher,male,1552,1662,comunidad-2,0.0,1
+66,Quaker missionary,female,1623,1698,comunidad-0,1.0,2
+67,Quaker preacher,female,1569,1679,comunidad-0,1.0,2
+68,religious controversialist,male,1673,1738,comunidad-4,0.0,1
+69,Quaker apostate,male,1640,1727,comunidad-4,0.0,2
+70,merchant and pioneer settler in America,male,1634,1687,comunidad-1,0.0,2
+71,Quaker activist and physician,male,1633,1720,comunidad-3,0.0,1
+72,Quaker leader,male,1628,1684,comunidad-3,0.0,1
+73,Quaker missionary,male,1626,1666,comunidad-3,0.0,2
+74,lawyer and politician in America,male,1656,1731,comunidad-1,1.0,2
+75,merchant,male,1658,1709,comunidad-1,0.0,1
+76,Quaker leader,male,1625,1697,comunidad-1,0.0,1
+77,Quaker activist,male,1626,1705,comunidad-4,0.0,2
+78,Quaker activist,male,1628,1662,comunidad-4,0.0,2
+79,historian of Quakerism,male,1683,1757,comunidad-1,0.0,2
+80,Quaker minister and schoolmaster,male,1649,1723,comunidad-1,0.0,2
+81,Quaker minister and writer,male,1677,1753,comunidad-1,0.0,1
+82,Quaker minister and preacher,male,1630,1696,comunidad-4,0.0,1
+83,"maker of clocks, watches, and barometers",male,1648,1724,comunidad-4,0.0,2
+84,apothecary,male,1691,1765,comunidad-4,0.0,1
+85,Quaker missionary,female,1619,1679,comunidad-4,0.0,1
+86,Quaker minister and botanist,male,1630,1691,comunidad-3,1.0,2
+87,Quaker apologist and controversialist,male,1655,1710,comunidad-7,0.0,1
+88,Quaker and writer,female,1623,1682,comunidad-7,0.1666666666666666,4
+89,Quaker minister and journal writer,male,1670,1742,comunidad-1,0.0,1
+90,Nothing,female,1631,1711,comunidad-1,0.0,1
+91,Quaker missionary,female,1555,1665,comunidad-3,0.0,2
+92,politician in America,male,1671,1746,comunidad-3,0.0,1
+93,naval officer and politician,male,1666,1743,comunidad-3,0.0,2
+94,Quaker preacher,male,1627,1671,comunidad-7,0.0,1
+95,Quaker preacher and writer,male,1616,1660,comunidad-5,0.0,1

@@ -1,0 +1,97 @@
+,Id,Label,historical_significance,gender,birthdate,deathdate,other_id,community,clustering,Degree
+0,George Keith,George Keith,Quaker schismatic and Church of England clergyman,male,1638,1716,10006784,comunidad-2,0.2857142857142857,8
+1,Robert Barclay,Robert Barclay,religious writer and colonial governor,male,1648,1690,10054848,comunidad-2,0.3333333333333333,3
+2,Benjamin Furly,Benjamin Furly,merchant and religious writer,male,1636,1714,10004625,comunidad-2,0.2,10
+3,Anne Conway Viscountess Conway and Killultagh,Anne Conway Viscountess Conway and Killultagh,philosopher,female,1631,1679,10002755,comunidad-2,0,1
+4,Franciscus Mercurius van Helmont,Franciscus Mercurius van Helmont,physician and cabbalist,male,1614,1698,10005781,comunidad-2,1.0,2
+5,William Penn,William Penn,Quaker leader and founder of Pennsylvania,male,1644,1718,10009531,comunidad-1,0.06535947712418301,18
+6,George Fox,George Fox,a founder of the Religious Society of Friends (Quakers),male,1624,1691,10004524,comunidad-0,0.09956709956709957,22
+7,George Whitehead,George Whitehead,Quaker leader and writer,male,1637,1724,10012813,comunidad-4,0.07692307692307693,13
+8,William Bradford,William Bradford,printer,male,1663,1752,10001445,comunidad-1,0.6666666666666666,3
+9,James Parnel,James Parnel,Quaker martyr,male,1636,1656,10009347,comunidad-2,1.0,2
+10,Stephen Crisp,Stephen Crisp,Quaker activist and writer,male,1628,1692,10003022,comunidad-2,0.6666666666666666,3
+11,Peter Collinson,Peter Collinson,botanist,male,1694,1768,10002694,comunidad-1,1.0,2
+12,John Bartram,John Bartram,botanist and explorer in America,male,1699,1777,10000745,comunidad-1,1.0,2
+13,James Logan,James Logan,colonial official and scholar,male,1674,1751,10007567,comunidad-1,0.3333333333333333,4
+14,Joseph Wyeth,Joseph Wyeth,religious writer,male,1663,1731,10013191,comunidad-7,0,1
+15,Thomas Ellwood,Thomas Ellwood,religious controversialist,male,1639,1713,10003945,comunidad-7,0.17857142857142858,8
+16,Dorcas Erbery,Dorcas Erbery,Quaker preacher,female,1656,1659,10003983,comunidad-5,0,1
+17,James Nayler,James Nayler,Quaker preacher and writer,male,1618,1660,10008713,comunidad-5,0.15833333333333333,16
+18,William Mucklow,William Mucklow,religious writer,male,1630,1713,10008595,comunidad-0,0,1
+19,William Dewsbury,William Dewsbury,Quaker activist,male,1621,1688,10003478,comunidad-0,1.0,3
+20,Edward Burrough,Edward Burrough,Quaker activist and writer,male,1633,1663,10001818,comunidad-0,0.3333333333333333,9
+21,John Crook,John Crook,Quaker leader and writer,male,1616,1699,10003063,comunidad-0,0.8333333333333334,4
+22,John Audland,John Audland,Quaker preacher,male,1630,1664,10000411,comunidad-6,0.2,6
+23,John Camm,John Camm,Quaker preacher,male,1605,1657,10001968,comunidad-6,0.3333333333333333,4
+24,Francis Howgill,Francis Howgill,Quaker activist,male,1618,1669,10006305,comunidad-5,0.3333333333333333,7
+25,Edward Pyott,Edward Pyott,parliamentarian army officer,male,1560,1670,10010036,comunidad-6,1.0,2
+26,Charles Marshall,Charles Marshall,Quaker preacher and apothecary,male,1637,1698,10007992,comunidad-6,0.3333333333333333,3
+27,Anne Camm,Anne Camm,Quaker preacher,female,1627,1705,10001967,comunidad-6,0,2
+28,Martha Simmonds,Martha Simmonds,Quaker and author,female,1624,1665,10011100,comunidad-5,0.6666666666666666,3
+29,Richard Farnworth,Richard Farnworth,Quaker preacher and writer,male,1630,1666,10004141,comunidad-5,0.3333333333333333,6
+30,William Crouch,William Crouch,Quaker leader and writer,male,1628,1711,10003087,comunidad-0,1.0,2
+31,Tace Sowle,Tace Sowle,printer and bookseller,male,1666,1749,10011332,comunidad-1,0.3333333333333333,3
+32,William Rogers,William Rogers,Quaker schismatic,male,1601,1711,10010417,comunidad-7,0,2
+33,Hannah Stranger,Hannah Stranger,Quaker missionary,female,1656,1671,10011632,comunidad-5,1.0,2
+34,Isabel Yeamans,Isabel Yeamans,Quaker preacher,female,1637,1704,10013226,comunidad-1,0,1
+35,George Fox the younger,George Fox the younger,religious writer,male,1551,1661,10004523,comunidad-3,0,1
+36,Margaret Fell,Margaret Fell,Quaker leader,female,1614,1702,10004170,comunidad-3,0.10256410256410256,13
+37,Ellis Hookes,Ellis Hookes,Quaker administrator,male,1635,1681,10006146,comunidad-0,0,1
+38,William Mead,William Mead,Quaker patron and merchant,male,1627,1713,10008161,comunidad-3,1.0,2
+39,Elizabeth Hooten,Elizabeth Hooten,Quaker preacher,female,1562,1672,10006153,comunidad-0,0,1
+40,Thomas Salthouse,Thomas Salthouse,Quaker preacher and writer,male,1630,1691,10010643,comunidad-3,1.0,2
+41,John Wilkinson,John Wilkinson,Quaker schismatic,male,1652,1683,10012893,comunidad-6,0.1,5
+42,William Coddington,William Coddington,merchant and official in America,male,1601,1678,10002606,comunidad-0,0,1
+43,John Stubbs,John Stubbs,Quaker minister,male,1618,1675,10011695,comunidad-2,0.2,5
+44,John Perrot,John Perrot,Quaker schismatic,male,1555,1665,10009584,comunidad-0,0.3333333333333333,7
+45,Leonard Fell,Leonard Fell,Quaker missionary and writer,male,1624,1701,10004169,comunidad-0,0,1
+46,William Caton,William Caton,Quaker preacher,male,1636,1665,10002203,comunidad-2,0.2,5
+47,Samuel Fisher,Samuel Fisher,Quaker preacher and writer,male,1604,1665,10004292,comunidad-2,0,1
+48,John Burnyeat,John Burnyeat,Quaker minister,male,1631,1690,10001815,comunidad-1,0,4
+49,Thomas Camm,Thomas Camm,Quaker preacher and writer,male,1640,1708,10001969,comunidad-6,0,3
+50,John Story,John Story,Quaker schismatic,male,1571,1681,10011613,comunidad-6,0.13333333333333333,6
+51,Solomon Eccles,Solomon Eccles,musician and Quaker missionary,male,1617,1682,10003859,comunidad-6,1.0,2
+52,Alexander Parker,Alexander Parker,Quaker preacher and author,male,1628,1689,10009307,comunidad-3,0.06666666666666667,6
+53,Isaac Norris,Isaac Norris,colonial official and merchant,male,1671,1735,10008884,comunidad-1,0,1
+54,John Swinton,John Swinton,politician,male,1620,1679,10011742,comunidad-2,0,1
+55,David Barclay of Ury,David Barclay of Ury,soldier and politician,male,1610,1686,10000621,comunidad-2,0,2
+56,Gervase Benson,Gervase Benson,Quaker leader,male,1569,1679,10000972,comunidad-5,1.0,2
+57,Robert Rich,Robert Rich,Quaker adherent and sectary,male,1607,1679,10010260,comunidad-5,1.0,2
+58,Anthony Pearson,Anthony Pearson,Quaker administrator,male,1627,1666,10009470,comunidad-5,0.4,5
+59,Rebecca Travers,Rebecca Travers,Quaker preacher and writer,female,1609,1688,10012062,comunidad-4,0.3333333333333333,4
+60,William Tomlinson,William Tomlinson,religious writer,male,1650,1696,10011989,comunidad-5,1.0,2
+61,Anthony Sharp,Anthony Sharp,Quaker leader,male,1643,1707,10010941,comunidad-1,0,3
+62,Samuel Clarridge,Samuel Clarridge,Quaker activist,male,1631,1704,10002504,comunidad-1,0,2
+63,Thomas Curtis,Thomas Curtis,Quaker schismatic,male,1602,1712,10003161,comunidad-7,0.2,5
+64,William Edmundson,William Edmundson,Quaker leader,male,1627,1712,10003882,comunidad-1,0,2
+65,William Ames,William Ames,Quaker preacher,male,1552,1662,10000175,comunidad-2,0,1
+66,Mary Fisher,Mary Fisher,Quaker missionary,female,1623,1698,10004290,comunidad-0,1.0,2
+67,Mary Prince,Mary Prince,Quaker preacher,female,1569,1679,10009959,comunidad-0,1.0,2
+68,Henry Pickworth,Henry Pickworth,religious controversialist,male,1673,1738,10009697,comunidad-4,0,1
+69,Francis Bugg,Francis Bugg,Quaker apostate,male,1640,1727,10001737,comunidad-4,0,2
+70,James Claypoole,James Claypoole,merchant and pioneer settler in America,male,1634,1687,10002513,comunidad-1,0,2
+71,Thomas Lower,Thomas Lower,Quaker activist and physician,male,1633,1720,10007626,comunidad-3,0,1
+72,William Gibson,William Gibson,Quaker leader,male,1628,1684,10004827,comunidad-3,0,1
+73,Thomas Holme,Thomas Holme,Quaker missionary,male,1626,1666,10006100,comunidad-3,0,2
+74,David Lloyd,David Lloyd,lawyer and politician in America,male,1656,1731,10007509,comunidad-1,1.0,2
+75,Edward Haistwell,Edward Haistwell,merchant,male,1658,1709,10005359,comunidad-1,0,1
+76,John ap John,John ap John,Quaker leader,male,1625,1697,10000243,comunidad-1,0,1
+77,Gilbert Latey,Gilbert Latey,Quaker activist,male,1626,1705,10007166,comunidad-4,0,2
+78,Richard Hubberthorne,Richard Hubberthorne,Quaker activist,male,1628,1662,10006314,comunidad-4,0,2
+79,Joseph Besse,Joseph Besse,historian of Quakerism,male,1683,1757,10001027,comunidad-1,0,2
+80,Richard Claridge,Richard Claridge,Quaker minister and schoolmaster,male,1649,1723,10002469,comunidad-1,0,2
+81,Samuel Bownas,Samuel Bownas,Quaker minister and writer,male,1677,1753,10001390,comunidad-1,0,1
+82,John Whitehead,John Whitehead,Quaker minister and preacher,male,1630,1696,10012815,comunidad-4,0,1
+83,Daniel Quare,Daniel Quare,"maker of clocks, watches, and barometers",male,1648,1724,10010037,comunidad-4,0,2
+84,Silvanus Bevan,Silvanus Bevan,apothecary,male,1691,1765,10001041,comunidad-4,0,1
+85,Alice Curwen,Alice Curwen,Quaker missionary,female,1619,1679,10003162,comunidad-4,0,1
+86,Thomas Lawson,Thomas Lawson,Quaker minister and botanist,male,1630,1691,10007210,comunidad-3,1.0,2
+87,John Penington,John Penington,Quaker apologist and controversialist,male,1655,1710,10009526,comunidad-7,0,1
+88,Mary Penington,Mary Penington,Quaker and writer,female,1623,1682,10009527,comunidad-7,0.16666666666666666,4
+89,Thomas Story,Thomas Story,Quaker minister and journal writer,male,1670,1742,10011614,comunidad-1,0,1
+90,Jane Sowle,Jane Sowle,Nothing,female,1631,1711,10011331,comunidad-1,0,1
+91,Elizabeth Leavens,Elizabeth Leavens,Quaker missionary,female,1555,1665,10007246,comunidad-3,0,2
+92,Lewis Morris,Lewis Morris,politician in America,male,1671,1746,10008534,comunidad-3,0,1
+93,Sir Charles Wager,Sir Charles Wager,naval officer and politician,male,1666,1743,10012403,comunidad-3,0,2
+94,William Simpson,William Simpson,Quaker preacher,male,1627,1671,10011114,comunidad-7,0,1
+95,Thomas Aldam,Thomas Aldam,Quaker preacher and writer,male,1616,1660,10000099,comunidad-5,0,1
